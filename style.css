@@ -1,0 +1,70 @@
+
+						body{
+
+								margin: 20;
+								padding: 20;
+
+							}	
+
+
+						form{
+								font-size: 14px;
+								background-color: #DDA0DD; 
+								max-width: 600px;
+								margin: 0 auto;
+								padding: 70px 70px 70px 70px;
+
+							}
+
+
+
+						h1	{
+
+							font-family: Times New Roman;
+							color:black;
+
+							}	
+
+
+
+						input, textarea {
+								width: 600px;
+								padding: 10px;
+
+							}		
+
+
+
+						.enviar input {
+
+							background:#069;
+							height: 40px;
+							width: 100px;
+							font-weight: bold;
+							border-radius: 5px;
+							border:	1px solid;
+							color: #FFF;
+							cursor: pointer;
+							margin: 0 auto;
+
+
+
+							}
+
+
+
+						.enviar input:hover {
+							background: #070;
+
+
+							}
+
+
+						textarea {
+							width: 600px;
+							height: 120px;
+							line-height: 20px;
+
+
+							}
+
